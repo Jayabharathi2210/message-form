@@ -1,0 +1,37 @@
+h1{
+  color: teal;
+  text-align: center;
+  font-size: 40px;
+  font-style: italic;
+}
+
+p{
+  text-align: center;
+  font-style: italic;
+  font-size: 25px;
+  color: teal;
+  font-weight: bold;
+}
+
+#ssd {
+  margin-left: 40%;
+  width: 20%;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  background: teal;
+  color: white;
+  font-size: 16px;
+  font-style: italic;
+  cursor: pointer;
+  &:hover {
+      background: MediumTurquoise;
+  }
+}
+
+h2{
+  color: teal;
+  font-style: italic;
+  text-align: center;
+  font-size: 40px;
+}
